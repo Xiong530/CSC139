@@ -3,7 +3,7 @@
 * CSC139
 * Ghassan Shobaki
 * Assignment3: CPU Scheduling
-* Grade Received: 65/100
+* Grade Received: 83/100
 */
 
 import java.io.BufferedReader;
