@@ -6,6 +6,7 @@ Xiong, Andrew
 Section 01
 OS tested on: Mac
 # of physical cores used: 8(Ryzen 7 5800X3D)
+Grade Received: 65/100
 */
 
 #include <stdio.h>
