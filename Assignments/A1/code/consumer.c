@@ -5,6 +5,7 @@ First Assignment
 Xiong, Andrew
 Section 01
 OS Tested on: Mac
+Grade Received: 80/100
 */
 
 #include <stdio.h>
